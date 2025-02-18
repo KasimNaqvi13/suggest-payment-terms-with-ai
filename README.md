@@ -6,9 +6,6 @@ As you have probably noticed, Business Central is actively integrating AI and pr
 
 https://vld-bc.com/blog/ai-prompt-pages-in-bc
 
-![image](https://github.com/user-attachments/assets/6475a1fa-ddf8-47ee-bac1-fae8457d4a78)
-
-
 ---
 
 # How to Install a Per Tenant Extension (.app file) in Business Central
