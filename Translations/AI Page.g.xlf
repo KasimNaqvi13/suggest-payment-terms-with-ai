@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AI Page">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3202120595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 Copilot Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3202120595 - Control 4257751337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control PaymentTerms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3202120595 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code for the SAT payment term.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3202120595 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the SAT payment term.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3202120595 - Control 3310956332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the percentage of the invoice amount (amount including VAT is the default setting) that will constitute a possible payment discount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3202120595 - Control 1240641596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date formula if the payment terms include a possible payment discount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount Date Calculation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3202120595 - Control 3015332611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a formula that determines how to calculate the due date, for example, when you create an invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Due Date Calculation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Draft new payment terms with Copilot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - NamedType 536713075" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The description of the payment terms is too short, and this might impact the result quality.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - NamedType DescriptionTooShortMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - NamedType 3739731429" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generating with Copilot...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - NamedType GeneratingTextDialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - NamedType 3747024379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please describe a payment terms that Copilot can draft for you.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - NamedType PaymentTermsDescriptionEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - NamedType 64394730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Something went wrong. Please try again.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - NamedType SomethingWentWrongErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - NamedType 3929800833" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Something went wrong. Please try again. The latest error is: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - NamedType SomethingWentWrongWithLatestErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Control 888546298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control ProposalDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Control 345273301 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Describe the payment terms you want to create with Copilot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control PaymentTermsDescriptionField - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2099740238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed day of current month with payment discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action CurrentFixedDayOfMonth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2286989888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed day of next month with payment discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NextFixedDayOfMonth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 558958581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2819954846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Date and current fixed Day of Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateAndCurrentFixedDayOfMonth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 1507163696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net date after End of Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateEOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 226772712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net date with discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateWithDiscount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 788258546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discard the Payment Terms proposed by Dynamics 365 Copilot.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Cancel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 788258546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discard it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Cancel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2626368477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate a payment terms with Dynamics 365 Copilot.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Generate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2626368477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Generate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2079045816 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Save the Payment Terms proposed by Dynamics 365 Copilot.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action OK - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2079045816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Keep it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action OK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2388911040 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regenerate the Payment Terms proposed by Dynamics 365 Copilot.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Regenerate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1931791251 - Action 2388911040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regenerate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Regenerate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 82831681 - Action 939458681 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source>Lets Copilot generate a draft payment terms based on your description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Action GenerateCopilotAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 82831681 - Action 939458681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source>Draft with Copilot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Action GenerateCopilotAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2724092486 - EnumValue 1074293693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3058546390">
+          <source>Suggest Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension SPT Copilot Capability - EnumValue Suggest Payment Terms - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

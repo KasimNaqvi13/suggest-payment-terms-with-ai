@@ -1,0 +1,32 @@
+{
+  "id": "08887262-5286-4cbb-8c0d-f604ef539997",
+  "name": "Suggest Payment Terms with AI",
+  "publisher": "Volodymyr Dvernytskyi",
+  "version": "1.0.0.0",
+  "brief": "https://vld-bc.com/",
+  "description": "Demonstration of working with prompt pages.",
+  "privacyStatement": "https://vld-bc.com/",
+  "EULA": "https://vld-bc.com/",
+  "help": "https://vld-bc.com/",
+  "url": "https://vld-bc.com/",
+  "logo": "./logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 81801,
+      "to": 81810
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://vld-bc.com/",
+  "runtime": "14.0",
+  "features": ["TranslationFile"],
+  "resourceExposurePolicy":
+    {
+      "allowDebugging": true,
+      "allowDownloadingSource": true,
+      "includeSourceInSymbolFile": true
+    }
+}
