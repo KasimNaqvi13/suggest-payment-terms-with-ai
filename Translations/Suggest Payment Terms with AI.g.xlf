@@ -8,90 +8,815 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2593708392 - Field 1259723980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Field Endpoint URL - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Table 2593708392 - Field 1259723980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Endpoint URL</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Field Endpoint URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2593708392 - Field 2853950796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Field Model Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 2593708392 - Field 2853950796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Model Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Field Model Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2593708392 - Field 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Field Primary Key - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Table 2593708392 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Primary Key</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SPT PT AI Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2556890280 - Method 1754176880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetPrompt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPT Create Payment Terms - Method GetPrompt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2556890280 - Method 3348830" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPT Create Payment Terms - Method Execute</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2556890280 - Method 3694331825" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPT Create Payment Terms - Method GetName</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2556890280 - Method 719952035" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetPaymentTerms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPT Create Payment Terms - Method GetPaymentTerms</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3909551492 - Method 1396330983" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetUserPrompt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPT Generate Proposal - Method SetUserPrompt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3909551492 - Method 2695840246" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetResult</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPT Generate Proposal - Method GetResult</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 896630322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Dynamics 365 Copilot Payment Terms</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 896630322 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Property EntitySetCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 4257751337 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control PaymentTerms - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 4257751337 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control PaymentTerms - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 4257751337 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control PaymentTerms - Property AboutText</note>
+        </trans-unit>
         <trans-unit id="Page 896630322 - Control 4257751337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control PaymentTerms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3004954119 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Code - Property AboutTitle</note>
         </trans-unit>
         <trans-unit id="Page 896630322 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies a code for the SAT payment term.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Code - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3004954119 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Code - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3004954119 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Code - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3461834954 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Description - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 896630322 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies a description of the SAT payment term.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3461834954 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Description - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3461834954 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Description - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3310956332 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount % - Property AboutTitle</note>
         </trans-unit>
         <trans-unit id="Page 896630322 - Control 3310956332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the percentage of the invoice amount (amount including VAT is the default setting) that will constitute a possible payment discount.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount % - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3310956332 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount % - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3310956332 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount % - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3310956332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 1240641596 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount Date Calculation - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 896630322 - Control 1240641596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the date formula if the payment terms include a possible payment discount.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount Date Calculation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 1240641596 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount Date Calculation - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 1240641596 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount Date Calculation - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 1240641596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Date Calculation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Discount Date Calculation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3015332611 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Due Date Calculation - Property AboutTitle</note>
         </trans-unit>
         <trans-unit id="Page 896630322 - Control 3015332611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies a formula that determines how to calculate the due date, for example, when you create an invoice.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Due Date Calculation - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3015332611 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Due Date Calculation - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3015332611 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Due Date Calculation - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 896630322 - Control 3015332611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date Calculation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT Payment Terms ProposalSub. - Control Due Date Calculation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property AboutText</note>
+        </trans-unit>
         <trans-unit id="Page 2593708392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Suggest Payment Terms Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Property EntitySetCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2445482498 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control General - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2445482498 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control General - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2445482498 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control General - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 2593708392 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>General</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control General - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1951792025 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control APIKey - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 2593708392 - Control 1951792025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>API Key</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control APIKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1951792025 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control APIKey - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1951792025 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control APIKey - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 2593708392 - Control 1951792025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>API Key</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control APIKey - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1259723980 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Endpoint URL - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 2593708392 - Control 1259723980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Endpoint URL field.</source>
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Endpoint URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1259723980 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Endpoint URL - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1259723980 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Endpoint URL - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 1259723980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endpoint URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Endpoint URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2853950796 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Model Name - Property AboutTitle</note>
         </trans-unit>
         <trans-unit id="Page 2593708392 - Control 2853950796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Model Name field.</source>
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Model Name - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2853950796 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Model Name - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2853950796 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Model Name - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Control 2853950796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Control Model Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1338673734 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Promoted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3306084698 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category10 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3306084698 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category10 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3306084698 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category10 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3306084698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2668388081 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category11 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2668388081 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category11 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2668388081 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category11 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2668388081 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 11</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2030691464 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category12 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2030691464 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category12 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2030691464 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category12 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2030691464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 12</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1392994847 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category13 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1392994847 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category13 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1392994847 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category13 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1392994847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 13</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1561903870 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category14 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1561903870 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category14 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1561903870 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category14 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1561903870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 14</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 924207253 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category15 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 924207253 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category15 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 924207253 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category15 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 924207253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 15</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 286510636 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category16 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 286510636 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category16 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 286510636 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category16 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 286510636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 16</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3943781315 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category17 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3943781315 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category17 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3943781315 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category17 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3943781315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 17</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 4112690338 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category18 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 4112690338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category18 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 4112690338 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category18 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 4112690338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 18</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3474993721 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category19 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3474993721 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category19 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3474993721 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category19 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3474993721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 19</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category19 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3565820967 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category20 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3565820967 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category20 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3565820967 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category20 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3565820967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 20</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1587086413 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category4 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1587086413 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1587086413 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category4 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2224783030 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category5 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2224783030 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category5 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2224783030 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category5 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 311693179 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category6 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 311693179 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category6 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 311693179 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category6 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 311693179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 949389796 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category7 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 949389796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category7 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 949389796 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category7 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 949389796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2524661601 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category8 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2524661601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category8 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2524661601 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category8 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2524661601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3162358218 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category9 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3162358218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category9 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3162358218 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category9 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3162358218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category 9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Category9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 278110413 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_New - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 278110413 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_New - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 278110413 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_New - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 278110413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3383493608 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Process - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3383493608 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Process - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3383493608 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Process - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2234406979 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Report - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2234406979 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Report - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2234406979 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Report - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2593708392 - Action 2234406979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT PT AI Setup - Action Category_Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property AboutText</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Draft new payment terms with Copilot</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Property EntitySetCaption</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - NamedType 536713075" size-unit="char" translate="yes" xml:space="preserve">
           <source>The description of the payment terms is too short, and this might impact the result quality.</source>
@@ -118,85 +843,195 @@
           <note from="Developer" annotates="general" priority="2">%1 = Latest Error</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - NamedType SomethingWentWrongWithLatestErr</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Control 888546298 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control ProposalDetails - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Control 888546298 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control ProposalDetails - Property AboutText</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Control 888546298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Terms</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control ProposalDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Control 345273301 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control PaymentTermsDescriptionField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Control 345273301 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control PaymentTermsDescriptionField - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Control 345273301 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
           <source>Describe the payment terms you want to create with Copilot vld-bc.com</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control PaymentTermsDescriptionField - Property InstructionalText</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Control 345273301 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control PaymentTermsDescriptionField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Control 345273301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PaymentTermsDescriptionField</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Control PaymentTermsDescriptionField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 885239378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action PromptGuide - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 3370788821 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action FixedDayOfMonth - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 3370788821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Fixed Day of Month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action FixedDayOfMonth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 3370788821 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action FixedDayOfMonth - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 3370788821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Fixed Day of Month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action FixedDayOfMonth - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 2099740238 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action CurrentFixedDayOfMonth - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 2099740238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Fixed day of current Month with discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action CurrentFixedDayOfMonth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 2099740238 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action CurrentFixedDayOfMonth - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 2099740238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Fixed day of current Month with discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action CurrentFixedDayOfMonth - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 2286989888 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NextFixedDayOfMonth - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 2286989888 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Fixed day of next Month with discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NextFixedDayOfMonth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 2286989888 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NextFixedDayOfMonth - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 2286989888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Fixed day of next Month with discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NextFixedDayOfMonth - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 558958581 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDate - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 558958581 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net date</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 558958581 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDate - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 558958581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net date</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDate - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 2819954846 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateAndCurrentFixedDayOfMonth - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 2819954846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net Date and current fixed Day of Month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateAndCurrentFixedDayOfMonth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 2819954846 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateAndCurrentFixedDayOfMonth - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 2819954846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net Date and current fixed Day of Month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateAndCurrentFixedDayOfMonth - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 1507163696 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateEOM - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 1507163696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net date after End of Month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateEOM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 1507163696 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateEOM - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 1507163696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net date after End of Month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateEOM - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 226772712 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateWithDiscount - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 226772712 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net date with discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateWithDiscount - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 226772712 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateWithDiscount - Property AboutText</note>
+        </trans-unit>
         <trans-unit id="Page 4135433058 - Action 226772712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Net date with discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action NetDateWithDiscount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4135433058 - Action 1295369732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action SystemActions - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4135433058 - Action 788258546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Discard the Payment Terms proposed by Dynamics 365 Copilot.</source>
@@ -238,10 +1073,55 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SPT SuggestPT - Proposal - Action Regenerate - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source>SPT Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Property EntitySetCaption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Action 2626949764 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Action SPTGenerateCopilotAction - Property AboutTitle</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2541814028 - Action 2626949764 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
           <source>Lets Copilot generate a draft payment terms based on your description.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Action SPTGenerateCopilotAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541814028 - Action 2626949764 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SPT Payment Terms - Action SPTGenerateCopilotAction - Property AboutText</note>
         </trans-unit>
         <trans-unit id="PageExtension 2541814028 - Action 2626949764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3197070065">
           <source>Draft with Copilot</source>
